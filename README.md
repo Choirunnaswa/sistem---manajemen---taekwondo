@@ -20,18 +20,11 @@ Project ini merupakan hasil perancangan sistem (analisis kebutuhan, alur proses,
 - Melihat riwayat pembayaran
 - Mencetak struk pembayaran
 
-## Dokumentasi Tampilan
-Beberapa tampilan rancangan aplikasi:
+## Dokumentasi Tampilan Aplikasi
 
-- Halaman Login
-- Menu Admin
-- Menu Anggota
-- Data Anggota
-- Data Pelatih
-- Data Peralatan
-- Pembayaran & Laporan
+Berikut adalah beberapa tampilan rancangan aplikasi Sistem Manajemen Taekwondo, meliputi halaman login, menu admin, menu anggota, pengelolaan data anggota, pelatih, peralatan, serta proses pembayaran dan laporan.
 
-(Lihat folder screenshots)
+Seluruh dokumentasi tampilan dapat dilihat pada folder screenshots.
 
 ## Konsep yang Digunakan
 - Object Oriented Programming (OOP)
