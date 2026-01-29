@@ -20,6 +20,19 @@ Project ini merupakan hasil perancangan sistem (analisis kebutuhan, alur proses,
 - Melihat riwayat pembayaran
 - Mencetak struk pembayaran
 
+## Dokumentasi Tampilan
+Beberapa tampilan rancangan aplikasi:
+
+- Halaman Login
+- Menu Admin
+- Menu Anggota
+- Data Anggota
+- Data Pelatih
+- Data Peralatan
+- Pembayaran & Laporan
+
+(Lihat folder screenshots)
+
 ## Konsep yang Digunakan
 - Object Oriented Programming (OOP)
 - CRUD (Create, Read, Update, Delete)
